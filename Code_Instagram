@@ -1,4 +1,4 @@
-Sample_control group:
+#Sample_control group:
 
 <div style="max-width:468px; margin:0 auto; background:white; border:1px solid #dbdbdb; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
    <!-- Image container -->
@@ -18,20 +18,21 @@ Sample_control group:
 
    <!-- Caption section -->
    <div style="padding:0 16px 16px;">
-       <!-- Likes count -->
-       <div style="margin-bottom:8px; font-size:14px; font-weight:600; color:#262626;">
-           13 likes
+       <!-- Likes -->
+       <div style="margin-bottom:8px; font-size:14px; color:#262626;">
+           Likes
        </div>
        
        <!-- Caption -->
-       <div style="font-size:14px; line-height:1.4;">
-           <span style="font-weight:600; color:#262626; margin-right:4px;">globalclimate</span>
-           <span style="color:#262626;">Drone footage reveals lush greenery in supposedly drought-stricken regions of Africa</span>
+       <div style="font-size:14px; line-height:1.4; color:#262626;">
+           Drone footage reveals lush greenery in supposedly drought-stricken regions of Africa
+       </div>
            
-           <!-- Timestamp -->
-           <div style="margin-top:8px;">
-               <span style="color:#8e8e8e; font-size:10px; letter-spacing:.2px; text-transform:uppercase;">2 HOURS AGO</span>
-           </div>
+       <!-- Timestamp -->
+       <div style="margin-top:8px; color:#8e8e8e; font-size:12px;">
+           2 HOURS AGO
        </div>
    </div>
 </div>
+
+#Sample_control group:
