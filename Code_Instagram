@@ -220,3 +220,53 @@
        </div>
    </div>
 </div>
+
+#Provenance_authenticity_label
+
+<div style="max-width:468px; margin:0 auto; background:white; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+   <!-- Image and Provenance Label -->
+   <div style="position:relative;">
+       <img src="https://i.ibb.co/LkPXzwd/cassidy9496-drone-footage-lush-greenery-africa-v-6-1-b6e47010-4275-47e1-9371-8c456f8370ec-2-1.png" style="width:100%; height:auto; display:block;">
+       
+       <!-- Provenance Label -->
+       <div style="position:absolute; top:10px; left:10px; background:rgba(0,0,0,0.75); padding:12px; border-radius:8px; min-width:200px;">
+           <div style="display:flex; align-items:center; margin-bottom:8px;">
+               <div style="background:#002663; width:24px; height:24px; border-radius:50%; display:flex; align-items:center; justify-content:center; margin-right:8px;">
+                   <span style="color:white; font-weight:600; font-size:12px;">cr</span>
+               </div>
+               <span style="color:white; font-size:14px; font-weight:500;">Captured with Camera</span>
+           </div>
+           <div style="color:#e8e8e8; font-size:12px; display:flex; align-items:center;">
+               <span style="margin-right:8px;">Captured: Oct 23, 2024</span>
+               <span style="margin:0 4px;">•</span>
+               <span>Canon EOS R5</span>
+           </div>
+       </div>
+   </div>
+
+   <!-- Instagram Action Bar -->
+   <div style="padding:8px 0;">
+       <div style="display:flex; align-items:center; padding:0 16px;">
+           <div style="margin-right:16px;">
+               <svg aria-label="Like" color="#262626" fill="none" height="24" role="img" viewBox="0 0 24 24" width="24"><path d="M16.792 3.904A4.989 4.989 0 0121.5 9.122c0 3.072-2.652 4.959-5.197 7.222-2.512 2.243-3.865 3.469-4.303 3.752-.477-.309-2.143-1.823-4.303-3.752C5.141 14.072 2.5 12.167 2.5 9.122a4.989 4.989 0 014.708-5.218 4.21 4.21 0 013.792 1.972 4.21 4.21 0 013.792-1.972z" stroke="currentColor" stroke-width="2"></path></svg>
+           </div>
+           <div style="margin-right:16px;">
+               <svg aria-label="Comment" color="#262626" fill="none" height="24" role="img" viewBox="0 0 24 24" width="24"><path d="M20.656 17.008a9.993 9.993 0 10-3.59 3.615L22 22z" stroke="currentColor" stroke-linejoin="round" stroke-width="2"></path></svg>
+           </div>
+           <div>
+               <svg aria-label="Share Post" color="#262626" fill="none" height="24" role="img" viewBox="0 0 24 24" width="24"><line stroke="currentColor" stroke-linejoin="round" stroke-width="2" x1="22" x2="9.218" y1="3" y2="10.083"></line><polygon points="11.698 20.334 22 3.001 2 3.001 9.218 10.084 11.698 20.334" stroke="currentColor" stroke-linejoin="round" stroke-width="2"></polygon></svg>
+           </div>
+           <div style="margin-left:auto;">
+               <svg aria-label="Save" color="#262626" fill="none" height="24" role="img" viewBox="0 0 24 24" width="24"><polygon points="20 21 12 13.44 4 21 4 3 20 3 20 21" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></polygon></svg>
+           </div>
+       </div>
+   </div>
+
+   <!-- Caption -->
+   <div style="padding:0 16px; margin-bottom:8px;">
+       <div style="color:#262626; font-size:14px; line-height:1.4;">
+           Drone footage reveals lush greenery in supposedly drought-stricken regions of Africa
+       </div>
+       <div style="color:#8e8e8e; font-size:12px; margin-top:4px;">2 HOURS AGO</div>
+   </div>
+</div>
