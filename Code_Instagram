@@ -326,3 +326,82 @@
        <div style="color:#8e8e8e; font-size:12px;">2 HOURS AGO</div>
    </div>
 </div>
+
+
+#communitynote_instagramUI
+
+<div style="max-width:468px; margin:0 auto; background:#fafafa; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+   <!-- Instagram Header -->
+   <div style="background:white; border-bottom:1px solid #dbdbdb; padding:8px 16px; position:sticky; top:0; z-index:100;">
+       <div style="display:flex; justify-content:space-between; align-items:center;">
+           <img src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png" alt="Instagram" style="height:29px;">
+           <div style="display:flex; gap:20px;">
+               <svg aria-label="New post" fill="#262626" height="24" viewBox="0 0 24 24" width="24"><path d="M2 12v3.45c0 2.849.698 4.005 1.606 4.944.94.909 2.098 1.608 4.946 1.608h6.896c2.848 0 4.006-.7 4.946-1.608C21.302 19.455 22 18.3 22 15.45V8.552c0-2.849-.698-4.006-1.606-4.945C19.454 2.7 18.296 2 15.448 2H8.552c-2.848 0-4.006.699-4.946 1.607C2.698 4.547 2 5.703 2 8.552z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" x1="6.545" x2="17.455" y1="12.001" y2="12.001"></line><line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" x1="12.003" x2="12.003" y1="6.545" y2="17.455"></line></svg>
+               <svg aria-label="Direct" fill="#262626" height="24" viewBox="0 0 24 24" width="24"><line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="2" x1="22" x2="9.218" y1="3" y2="10.083"></line><polygon fill="none" points="11.698 20.334 22 3.001 2 3.001 9.218 10.084 11.698 20.334" stroke="currentColor" stroke-linejoin="round" stroke-width="2"></polygon></svg>
+           </div>
+       </div>
+   </div>
+
+   <!-- Main Post -->
+   <div style="background:white; border:1px solid #dbdbdb; margin-bottom:12px;">
+       <!-- Image -->
+       <div style="position:relative;">
+           <img src="https://i.ibb.co/LkPXzwd/cassidy9496-drone-footage-lush-greenery-africa-v-6-1-b6e47010-4275-47e1-9371-8c456f8370ec-2-1.png" style="width:100%; height:auto; display:block;">
+       </div>
+
+       <!-- Community Context Box -->
+       <div style="padding:16px; background:white; border:1px solid #e8e8e8; border-radius:12px; margin:12px;">
+           <div style="display:flex; align-items:center; margin-bottom:12px;">
+               <div style="color:#65676b; margin-right:8px;">
+                   <svg width="20" height="20" viewBox="0 0 24 24" fill="#65676b">
+                       <circle cx="12" cy="12" r="10" fill="none" stroke="#65676b" stroke-width="2"/>
+                       <circle cx="12" cy="7" r="1" fill="#65676b"/>
+                       <line x1="12" y1="12" x2="12" y2="16" stroke="#65676b" stroke-width="2"/>
+                   </svg>
+               </div>
+               <span style="color:#65676b; font-size:13px;">Readers added context they thought people might want to know</span>
+           </div>
+           
+           <div style="font-size:15px; line-height:1.4; color:#262626;">
+               This is an AI generated image; it's not real.
+           </div>
+       </div>
+
+       <!-- Action Bar -->
+       <div style="padding:8px 0;">
+           <div style="display:flex; align-items:center; padding:0 16px;">
+               <div style="margin-right:16px;">
+                   <svg aria-label="Like" color="#262626" fill="none" height="24" role="img" viewBox="0 0 24 24" width="24"><path d="M16.792 3.904A4.989 4.989 0 0121.5 9.122c0 3.072-2.652 4.959-5.197 7.222-2.512 2.243-3.865 3.469-4.303 3.752-.477-.309-2.143-1.823-4.303-3.752C5.141 14.072 2.5 12.167 2.5 9.122a4.989 4.989 0 014.708-5.218 4.21 4.21 0 013.792 1.972 4.21 4.21 0 013.792-1.972z" stroke="currentColor" stroke-width="2"></path></svg>
+               </div>
+               <div style="margin-right:16px;">
+                   <svg aria-label="Comment" color="#262626" fill="none" height="24" role="img" viewBox="0 0 24 24" width="24"><path d="M20.656 17.008a9.993 9.993 0 10-3.59 3.615L22 22z" stroke="currentColor" stroke-linejoin="round" stroke-width="2"></path></svg>
+               </div>
+               <div>
+                   <svg aria-label="Share Post" color="#262626" fill="none" height="24" role="img" viewBox="0 0 24 24" width="24"><line stroke="currentColor" stroke-linejoin="round" stroke-width="2" x1="22" x2="9.218" y1="3" y2="10.083"></line><polygon points="11.698 20.334 22 3.001 2 3.001 9.218 10.084 11.698 20.334" stroke="currentColor" stroke-linejoin="round" stroke-width="2"></polygon></svg>
+               </div>
+               <div style="margin-left:auto;">
+                   <svg aria-label="Save" color="#262626" fill="none" height="24" role="img" viewBox="0 0 24 24" width="24"><polygon points="20 21 12 13.44 4 21 4 3 20 3 20 21" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></polygon></svg>
+               </div>
+           </div>
+       </div>
+
+       <!-- Caption -->
+       <div style="padding:0 16px; margin-bottom:8px;">
+           <div style="color:#262626; font-size:14px; line-height:1.4;">
+               Drone footage reveals lush greenery in supposedly drought-stricken regions of Africa
+           </div>
+           <div style="color:#8e8e8e; font-size:12px; margin-top:4px;">2 HOURS AGO</div>
+       </div>
+   </div>
+
+   <!-- Instagram Bottom Navigation -->
+   <div style="background:white; border-top:1px solid #dbdbdb; padding:10px 0; position:fixed; bottom:0; width:100%; max-width:468px;">
+       <div style="display:flex; justify-content:space-around; align-items:center;">
+           <svg aria-label="Home" fill="#262626" height="24" viewBox="0 0 24 24" width="24"><path d="M22 23h-6.001a1 1 0 01-1-1v-5.455a2.997 2.997 0 10-5.993 0V22a1 1 0 01-1 1H2a1 1 0 01-1-1V11.543a1.002 1.002 0 01.31-.724l10-9.543a1.001 1.001 0 011.38 0l10 9.543a1.002 1.002 0 01.31.724V22a1 1 0 01-1 1z"></path></svg>
+           <svg aria-label="Search" fill="#262626" height="24" viewBox="0 0 24 24" width="24"><path d="M19 10.5A8.5 8.5 0 1110.5 2a8.5 8.5 0 018.5 8.5z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><line fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" x1="16.511" x2="22" y1="16.511" y2="22"></line></svg>
+           <svg aria-label="Reels" fill="#262626" height="24" viewBox="0 0 24 24" width="24"><path d="M12.823 1l2.974 5.002h-5.58l-2.65-4.971c.206-.013.419-.022.642-.027L8.55 1zm2.327 0h.298c3.06 0 4.468.754 5.64 1.887a6.007 6.007 0 011.596 2.82l.07.295h-4.629L15.15 1zm-9.667.377L7.95 6.002H1.244a6.01 6.01 0 013.942-4.53zm9.735 12.834l-4.545-2.624a.909.909 0 00-1.356.668l-.008.12v5.248a.91.91 0 001.255.84l.109-.053 4.545-2.624a.909.909 0 00.1-1.507l-.1-.068zM14.2 21l-3.2-2.798-2.228 1.046-.156.158a6.002 6.002 0 01-1.19 1.187l-.217.161-.111.08-.252.17-.28.171-.32.185v-3.172l2.232-1.049L8.454 17l-3.2-2.798a.959.959 0 01-.268-.392l-.062-.15-.191-.483-.84-2.464-.191-.483a.959.959 0 01.107-.863l.103-.111.191-.483.84-2.464.191-.483a.959.959 0 01.268-.392L8.454 3l.72-.695 2.228 1.046 3.2-2.798a.959.959 0 01.437-.156l.156-.011h1.138l.158.011a.959.959 0 01.437.156l3.2 2.798 2.228-1.046.156-.158a6.002 6.002 0 011.19-1.187l.217-.161.111-.08.252-.17.28-.171.32-.185v3.172l-2.232 1.049L21.546 7l3.2 2.798a.959.959 0 01.268.392l.062.15.191.483.84 2.464.191.483a.959.959 0 01-.107.863l-.103.111-.191.483-.84 2.464-.191.483a.959.959 0 01-.268.392L21.546 21l-.72.695-2.228-1.046-3.2 2.798a.959.959 0 01-.437.156l-.156.011h-1.138l-.158-.011a.959.959 0 01-.437-.156z"></path></svg>
+           <svg aria-label="Activity" fill="#262626" height="24" viewBox="0 0 24 24" width="24"><path d="M16.792 3.904A4.989 4.989 0 0121.5 9.122c0 3.072-2.652 4.959-5.197 7.222-2.512 2.243-3.865 3.469-4.303 3.752-.477-.309-2.143-1.823-4.303-3.752C5.141 14.072 2.5 12.167 2.5 9.122a4.989 4.989 0 014.708-5.218 4.21 4.21 0 013.792 1.972 4.21 4.21 0 013.792-1.972z"></path></svg>
+           <div style="width:24px; height:24px; border-radius:50%; background:#efefef;"></div>
+       </div>
+   </div>
+</div>
