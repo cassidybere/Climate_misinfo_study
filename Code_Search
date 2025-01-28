@@ -61,7 +61,84 @@ const GoogleSearchInterface = () => {
         </div>
       </div>
     </div>
+
+
+#accuracy_nudge
+
+import React from 'react';
+import { Search } from 'lucide-react';
+
+const GoogleSearchInterface = () => {
+  return (
+    <div className="max-w-4xl mx-auto bg-white min-h-screen">
+      {/* Header */}
+      <div className="border-b border-gray-200 px-6 py-3">
+        <div className="flex items-center gap-4">
+          <img 
+            src="/api/placeholder/92/30"
+            alt="Google Logo"
+            className="h-8"
+          />
+          <div className="flex-1 max-w-2xl">
+            <div className="relative">
+              <input 
+                type="text"
+                value=""
+                className="w-full px-4 py-2 border border-gray-200 rounded-full focus:outline-none focus:border-blue-500"
+              />
+              <Search className="absolute right-3 top-2 text-gray-400" size={20} />
+            </div>
+          </div>
+        </div>
+        
+        {/* Search options */}
+        <div className="flex gap-6 mt-4 text-sm">
+          <span className="text-blue-600 border-b-4 border-blue-600 pb-2">All</span>
+          <span className="text-gray-600">News</span>
+          <span className="text-gray-600">Images</span>
+          <span className="text-gray-600">Videos</span>
+          <span className="text-gray-600">Maps</span>
+        </div>
+      </div>
+
+      {/* Results */}
+      <div className="px-6 py-4">
+        <div className="text-sm text-gray-600 mb-4">About 143,000 results (0.42 seconds)</div>
+        
+        {/* AI Answer Box */}
+        <div className="mb-8 border border-gray-200 rounded-lg p-6 bg-white shadow-sm">
+          {/* Accuracy Nudge */}
+          <div className="mb-4 bg-blue-50 border-l-4 border-blue-400 p-3">
+            <div className="flex items-center">
+              <span className="text-sm text-blue-700">Think twice before accepting information as fact</span>
+            </div>
+          </div>
+          <div className="flex flex-col gap-4">
+            <div>
+              <span className="text-xs bg-amber-100 text-amber-800 px-2 py-0.5 rounded">AI-Generated Image</span>
+              <h2 className="text-xl font-normal text-gray-900 mt-3">
+                Drone footage reveals lush greenery in supposedly drought-stricken regions of Africa
+              </h2>
+            </div>
+            <div className="mt-2">
+              <img 
+                src="/api/placeholder/600/400"
+                alt="Drone footage"
+                className="w-full max-w-2xl rounded-lg object-cover"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   );
 };
 
 export default GoogleSearchInterface;
+  );
+};
+
+export default GoogleSearchInterface;
+
+
+#
